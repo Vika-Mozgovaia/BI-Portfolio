@@ -1,69 +1,69 @@
-# Привет!
+# Hello!
 
-Меня зовут **Виктория Мозговая**.
+My name is **Viktoria Mozgovaia**.
 
-Я **BI Analyst** с более чем **15-летним опытом в маркетинге, управлении и бизнес-анализе**.
+I am a **BI Analyst** with more than **15 years of experience in marketing, management, and business analysis**.
 
-За время работы я руководила отделом маркетинга компании, анализировала эффективность рекламных кампаний, разрабатывала планы продаж, работала с CRM, Яндекс Метрикой и системой управленческой отчетности. Мне всегда было интересно находить закономерности в данных и использовать их для принятия бизнес-решений.
+Throughout my career, I managed a marketing department, analyzed advertising campaign performance, developed sales plans, worked with CRM systems, Yandex Metrica, and management reporting. I have always been passionate about identifying patterns in data and using them to support business decision-making.
 
-В настоящее время развиваюсь в области **BI и аналитики данных**. Создаю дашборды, анализирую данные, применяю SQL и Python для решения бизнес-задач.
+I am currently developing my expertise in **Business Intelligence and Data Analytics**. I build dashboards, analyze data, and use SQL and Python to solve business problems.
 
 ---
 
-# Навыки
+# Skills
 
-## Анализ данных
+## Data Analysis
 
 - SQL (JOIN, CTE, Window Functions)
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)
-- Исследовательский анализ данных (EDA)
-- A/B-тестирование
-- Статистический анализ
+- Exploratory Data Analysis (EDA)
+- A/B Testing
+- Statistical Analysis
 
-## BI и визуализация
+## Business Intelligence & Data Visualization
 
 - Apache Superset
 - DataLens
-- Разработка интерактивных дашбордов
-- Визуализация данных
+- Interactive Dashboard Development
+- Data Visualization
 
-## Бизнес-аналитика
+## Business Analytics
 
-- Маркетинговая аналитика
-- Анализ эффективности рекламных кампаний
-- Анализ KPI
-- Подготовка рекомендаций для бизнеса
-
----
-
-# Проекты
-
-В этом репозитории собраны проекты по аналитике данных и BI, выполненные на основе практических бизнес-кейсов.
-
-Основные темы проектов:
-
-- Анализ рынка общественного питания Москвы
-- Анализ рынка недвижимости
-- Анализ эффективности рекламных кампаний
-- BI-дашборд страховой компании
-- Аналитика рынка игр
-- A/B-тестирование
-- Анализ венчурных инвестиций
+- Marketing Analytics
+- Advertising Campaign Performance Analysis
+- KPI Analysis
+- Business Recommendations
 
 ---
 
-# В настоящее время изучаю
+# Projects
+
+This repository contains data analytics and Business Intelligence projects based on real-world business cases.
+
+Main project areas:
+
+- Moscow Food Service Market Analysis
+- Real Estate Market Analysis
+- Advertising Campaign Performance Analysis
+- Insurance BI Dashboard
+- Game Market Analytics
+- A/B Testing
+- Startup Investment Analysis
+
+---
+
+# Currently Learning
 
 - Power BI
-- Продвинутый SQL
-- Продвинутые возможности Excel
-- Статистику для аналитиков
+- Advanced SQL
+- Advanced Excel for Data Analysis
+- Statistics for Data Analysts
 
 ---
 
-# Языки
+# Languages
 
-- Русский — родной
-- Английский — A2 (в процессе изучения)
-- Испанский — A2 (в процессе изучения)
-- Французский — базовый
+- Russian — Native
+- English — A2 (currently improving)
+- Spanish — A2 (currently improving)
+- French — Basic
