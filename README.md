@@ -2,11 +2,11 @@
 
 My name is **Viktoria Mozgovaia**.
 
-I am a **BI Analyst** with more than **15 years of experience in marketing, management, and business analysis**.
+I am a **BI Analyst** with over **15 years of experience in marketing, management, and business analysis**.
 
-Throughout my career, I managed a marketing department, analyzed advertising campaign performance, developed sales plans, worked with CRM systems, Yandex Metrica, and management reporting. I have always been passionate about identifying patterns in data and using them to support business decision-making.
+Throughout my career, I have managed a marketing department, analyzed advertising campaign performance, developed sales plans, worked with CRM systems, Yandex Metrica, and management reporting. I have always been passionate about identifying patterns in data and using them to support business decision-making.
 
-I am currently developing my expertise in **Business Intelligence and Data Analytics**. I build dashboards, analyze data, and use SQL and Python to solve business problems.
+I am currently expanding my expertise in **Business Intelligence and Data Analytics**. I build dashboards, analyze data, and use SQL and Python to solve business problems.
 
 ---
 
@@ -14,7 +14,7 @@ I am currently developing my expertise in **Business Intelligence and Data Analy
 
 ## Data Analysis
 
-- SQL (JOIN, CTE, Window Functions)
+- SQL (JOIN, CTE, Window Functions, Aggregations)
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)
 - Exploratory Data Analysis (EDA)
 - A/B Testing
