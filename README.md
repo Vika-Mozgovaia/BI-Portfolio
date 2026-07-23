@@ -40,16 +40,15 @@ I am currently expanding my expertise in **Business Intelligence and Data Analyt
 
 This repository contains data analytics and Business Intelligence projects based on real-world business cases.
 
-Main project areas:
-
-- Moscow Food Service Market Analysis
-- Real Estate Market Analysis
-- Advertising Campaign Performance Analysis
-- Insurance BI Dashboard
-- Game Market Analytics
-- A/B Testing
-- Startup Investment Analysis
-
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Advertising Analytics Dashboard** | BI dashboard for advertising campaign performance analysis | SQL, Apache Superset |
+| **Real Estate Market Analysis** | Analysis of the Saint Petersburg real estate market | SQL, DataLens |
+| **Insurance BI Dashboard** | Dashboard for customer portfolio and insurance revenue analysis | DataLens |
+| **Game Market Analytics** | BI dashboard for game market analysis | Apache Superset |
+| **Moscow Food Service Market Analysis** | Exploratory data analysis of the Moscow food service market | Python, Pandas |
+| **A/B Testing** | Statistical hypothesis testing and experiment analysis | Python, SciPy, Statsmodels |
+| **Startup Investment Analysis** | Venture capital investment analysis and market research | Python, SQL |
 ---
 
 # Currently Learning
