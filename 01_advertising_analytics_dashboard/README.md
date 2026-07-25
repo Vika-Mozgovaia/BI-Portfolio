@@ -126,4 +126,4 @@ The dashboard enables users to:
 
 ## SQL
 
-SQL scripts used to prepare the dashboard data are available in the `sql` folder.
+The SQL query used to prepare the analytical dataset is available in [`sql/dataset_preparation.sql`](sql/dataset_preparation.sql).
