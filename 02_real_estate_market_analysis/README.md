@@ -6,7 +6,7 @@ This project explores the Moscow food service market to identify promising oppor
 
 The analysis was conducted for a company entering the food service industry for the first time. The objective was to examine the market structure, evaluate competition, analyze pricing segments, and identify the most attractive business formats and locations based on real market data.
 
-The study combines two datasets containing information about food establishments and pricing characteristics.
+The study combines two datasets: one describing food establishments and another containing pricing information.
 
 ---
 
@@ -29,28 +29,31 @@ The analysis answers the following business questions:
 
 The analysis is based on two datasets.
 
-### Dataset 1 — Food Establishments
+### Dataset 1 — Food Establishments (`rest_info`)
 
 Contains information about each establishment, including:
 
-- establishment category;
-- administrative district;
+- unique establishment identifier (`id`);
+- establishment name;
 - address;
+- administrative district;
+- establishment category (café, restaurant, coffee shop, etc.);
 - opening hours;
+- Yandex Maps rating;
 - chain affiliation;
-- seating capacity;
-- rating.
+- seating capacity.
 
-### Dataset 2 — Pricing Information
+### Dataset 2 — Pricing Information (`rest_price`)
 
 Contains pricing characteristics, including:
 
+- unique establishment identifier (`id`);
 - price category;
-- average bill;
-- coffee price;
-- numerical representation of the average bill.
+- average bill (text representation);
+- numerical estimate of the average bill;
+- numerical estimate of the average price of a cappuccino.
 
-The datasets were merged using a unique establishment identifier.
+The datasets were merged using a unique establishment identifier (`id`).
 
 > **Note:** The original datasets are not included in this repository because they were provided by the educational platform and cannot be publicly distributed.
 
