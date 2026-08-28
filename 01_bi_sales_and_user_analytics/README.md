@@ -102,6 +102,26 @@ The time granularity filter allows users to switch between different aggregation
 
 ---
 
+## SQL Queries
+
+The analytical datasets used in Apache Superset were prepared using SQL queries.
+
+The project includes two main queries:
+
+- [**Orders Query**](sql/orders_query.sql) — combines orders, order items, products, categories, buyers, sellers, and reviews into an analytical dataset for sales analysis.
+- [**Users Query**](sql/users_query.sql) — combines user information with order history to support customer behavior, activity, conversion, retention, and cohort analysis.
+
+The queries use:
+
+- Common Table Expressions (CTEs)
+- `LEFT JOIN`
+- Window functions
+- `ROW_NUMBER()`
+- `SUM() OVER`
+- `AVG() OVER`
+
+---
+
 ## Documentation
 
 Detailed project documentation, including data preparation, metrics, dashboard logic, and analytical approach, is available here:
@@ -131,4 +151,9 @@ Detailed project documentation, including data preparation, metrics, dashboard l
 │   ├── sales_dashboard_overview.png
 │   └── user_analytics_dashboard.jpg
 │
+├── sql/
+│   ├── orders_query.sql
+│   └── users_query.sql
+│
 └── README.md
+```
