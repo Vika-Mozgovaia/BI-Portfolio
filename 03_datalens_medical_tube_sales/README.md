@@ -2,173 +2,255 @@
 
 ## Project Overview
 
-Interactive sales dashboard built in Yandex DataLens for analyzing sales performance, product demand, customer segments, suppliers, sales channels, and regional distribution.
+This project presents an interactive sales analytics dashboard developed in Yandex DataLens for analyzing the sales performance of medical tubes.
 
-The dashboard covers sales data for 2023–2024 and provides an overview of key business metrics, sales dynamics, revenue structure, comparative period analysis, and identified growth opportunities and risks.
+The dashboard provides an overview of key business metrics, sales dynamics, revenue structure, customer segments, sales channels, suppliers, and regional distribution.
 
-**Dashboard:** [Open interactive dashboard in Yandex DataLens](ССЫЛКА)
+The analysis covers the period from 2023 to 2024 and is designed to support business users in monitoring sales performance and identifying key trends and deviations.
+
+---
+
+## Interactive Dashboard
+
+<a href="https://datalens.yandex/n6dizmyks6fq7" target="_blank">Open the interactive dashboard in Yandex DataLens ↗</a>
 
 ---
 
 ## Business Task
 
-Analyze sales performance and identify the main factors affecting revenue and demand.
+Develop an interactive BI dashboard that allows users to:
 
-The dashboard was designed to answer the following business questions:
-
-- How are sales and average order value changing over time?
-- Which product categories generate the highest revenue?
-- Which suppliers and customer segments demonstrate the strongest growth?
-- Which sales channels are growing or declining?
-- How is revenue distributed across regions?
-- Which products generate the highest sales volume?
-- What risks and negative trends require management attention?
+- monitor key sales performance indicators;
+- analyze sales dynamics over time;
+- compare current and previous periods;
+- evaluate average order value;
+- analyze sales by product category;
+- identify the contribution of suppliers and customer segments to total revenue;
+- compare sales channels;
+- analyze regional sales distribution;
+- identify growth areas and negative trends.
 
 ---
 
-## Dashboard Overview
+## Dashboard Structure
 
-The dashboard includes three analytical sections:
+The dashboard consists of three main analytical sections:
 
 ### 1. Sales Overview
 
-Provides an overview of key business metrics and sales dynamics.
+The first section provides a general overview of sales performance.
 
-Key metrics include:
+It includes:
 
-- total sales revenue;
+- total sales;
 - number of units sold;
 - average order value;
-- number of sales regions.
+- number of sales regions;
+- sales dynamics;
+- average order value dynamics.
 
-The section also includes sales and average order value trends over time.
+Users can filter the dashboard by:
 
-![Dashboard Overview](images/dashboard_overview.png)
+- sales period;
+- region;
+- customer type;
+- sales channel.
 
 ---
 
-### 2. Sales Structure and Geography
+### Sales Overview
 
-This section analyzes:
+![Sales Overview](images/dashboard_overview.png)
 
-- the relationship between sales volume and revenue;
-- revenue structure by supplier and customer type;
+---
+
+### 2. Revenue Structure and Sales Geography
+
+This section focuses on the structure and distribution of sales.
+
+The analysis includes:
+
+- correlation between sales volume and revenue;
 - Top-10 products by sales volume;
+- revenue structure by supplier and customer type;
 - geographical distribution of sales.
 
-![Sales Structure and Geography](images/sales_structure_and_geography.png)
+The visualizations help identify the largest contributors to revenue and evaluate the concentration of demand across regions.
+
+---
+
+### Revenue Structure and Sales Geography
+
+![Revenue Structure and Sales Geography](images/sales_structure_and_geography.png)
 
 ---
 
 ### 3. Comparative Analysis
 
-The comparative analysis allows users to compare two periods and evaluate changes in:
+The comparative analysis section allows users to compare two periods and identify changes in sales performance.
 
-- sales revenue;
-- average order value;
-- performance across product categories;
-- supplier, customer type, and sales channel combinations.
+The analysis includes:
 
-The detailed table highlights both absolute and relative changes.
+- sales dynamics by product category;
+- average order value by category;
+- detailed comparison by supplier;
+- customer type;
+- sales channel;
+- absolute and relative differences between periods.
+
+---
+
+### Comparative Analysis
 
 ![Comparative Analysis](images/comparative_analysis.png)
 
 ---
 
-## Key Findings
+## Analytical Findings
 
-### 1. Sales demonstrate an overall positive trend
+The analysis of sales data for 2023–2024 revealed several important trends in sales dynamics, demand structure, and sales channel performance.
 
-Total sales for the analyzed period reached **325.14 billion RUB**, with **39.87 million units sold**.
+### Overall Performance
 
-After a decline at the beginning of the analyzed period, sales recovered and continued to grow, reaching their highest levels toward the end of 2024.
+During the reporting period, the key business indicators were:
 
-The average order value remained relatively stable at approximately **8,153 RUB**.
+- **Total sales:** 325.14 billion RUB
+- **Units sold:** 39.87 million
+- **Average order value:** 8,153 RUB
+- **Sales geography:** 21 regions
 
----
+Overall sales demonstrated a positive trend.
 
-### 2. Clinical, Scientific, and Sterile categories generate the highest revenue
+After a decline at the beginning of the analyzed period, sales recovered and continued to grow, reaching their highest levels by the end of 2024.
 
-The largest sales volumes were generated by:
-
-- **Clinical** products — approximately 32.71 billion RUB;
-- **Scientific** products — approximately 32.70 billion RUB;
-- **Sterile** products — approximately 32.55 billion RUB.
-
-These categories also demonstrated positive growth compared with the previous period.
+The average order value remained relatively stable with only minor fluctuations.
 
 ---
 
-### 3. Online sales to private customers show the strongest growth
+### Leading Product Categories
 
-The fastest-growing segments included:
+The highest sales volumes during the comparison period were generated by:
 
-- **MedTech — Private Customer / Online:** +226.9%;
-- **PharmaTech — Private Customer / Online:** +179.3%;
-- **MedTech — Private Customer / Partner:** +172.5%;
-- **Health — Private Customer / Online:** +145.7%.
+| Category | Revenue |
+|---|---:|
+| **Clinical** | 32.71 billion RUB |
+| **Scientific** | 32.70 billion RUB |
+| **Sterile** | 32.55 billion RUB |
 
-The largest absolute increase was observed in the **MedTech — Private Customer / Online** segment.
-
-This indicates strong growth potential in digital sales channels and direct-to-consumer segments.
-
----
-
-### 4. MedTech is a key contributor to sales growth
-
-MedTech demonstrated strong growth across several customer segments and sales channels, including:
-
-- medical institutions through online sales;
-- private customers through online channels;
-- private customers through partner channels.
-
-The supplier's performance suggests effective development of online channels and expansion of its customer base.
+The **Clinical**, **Scientific**, and **Sterile** categories each demonstrated approximately **0.7% revenue growth** compared with the previous period, indicating stable demand.
 
 ---
 
-### 5. Sales are geographically concentrated
+### Average Order Value Remained Stable
 
-Moscow represents the largest sales market, indicating a significant concentration of demand in the country's largest economic center.
+The highest average order values were recorded in the following categories:
+
+| Category | Average Order Value |
+|---|---:|
+| **Scientific** | 8,181 RUB |
+| **Clinical** | 8,180 RUB |
+| **Sterile** | 8,172 RUB |
+
+Growth in average order value was observed in:
+
+- **Sterile** — +0.5%
+- **Clinical** — +0.4%
+- **Scientific** — +0.3%
+
+These results indicate relatively stable pricing and a consistent sales structure.
 
 ---
 
-## Risks and Areas for Attention
+### Online Sales to Individual Customers Showed the Highest Growth
 
-### Decline in pharmacy sales
+The fastest-growing segments were:
 
-Significant sales declines were identified in pharmacy segments, particularly for **PharmaGroup** and **PharmaSupply**.
+| Supplier | Segment | Growth |
+|---|---|---:|
+| **MedTech** | Individual / Online | +226.9% |
+| **PharmaTech** | Individual / Online | +179.3% |
+| **MedTech** | Individual / Partner | +172.5% |
+| **Health** | Individual / Online | +145.7% |
+| **PharmaTech** | Individual / Partner | +124.9% |
 
-The largest negative changes were observed across online, offline, and partner channels.
+The largest absolute increase was recorded for **MedTech in the Individual / Online segment**, where sales increased by **17.8 billion RUB**.
 
-Key absolute declines included:
+---
+
+### MedTech Holds Leading Positions in Sales Volume
+
+The revenue structure shows that segments associated with **MedTech** generate the largest share of total sales.
+
+The strongest growth was observed in:
+
+- sales to medical institutions through online channels — **+95.7%**;
+- sales to individual customers through online channels — **+226.9%**;
+- sales to individual customers through partner channels — **+172.5%**.
+
+This indicates the strong development of online channels and the expansion of the supplier's customer base.
+
+---
+
+### Sales Are Regionally Concentrated
+
+The largest sales volume is concentrated in **Moscow**, confirming a high concentration of demand in the country's largest economic center.
+
+Other regions generate significantly smaller sales volumes.
+
+---
+
+## Risks and Negative Trends
+
+Despite positive overall trends, the analysis identified several areas requiring additional attention.
+
+### Decline in the Pharmacy Segment
+
+The most significant decline in sales was observed for **PharmaGroup** and **PharmaSupply**:
+
+| Supplier | Segment | Change |
+|---|---|---:|
+| **PharmaGroup** | Pharmacy / Offline | −92.8% |
+| **PharmaSupply** | Pharmacy / Offline | −91.0% |
+| **PharmaGroup** | Pharmacy / Partner | −89.6% |
+| **PharmaSupply** | Pharmacy / Partner | −86.7% |
+| **PharmaGroup** | Pharmacy / Online | −86.7% |
+| **PharmaSupply** | Pharmacy / Online | −84.7% |
+
+Negative dynamics were also observed in several other pharmacy-related sales channels.
+
+---
+
+### Declining Performance of Individual Suppliers
+
+**PharmaGroup** and **PharmaSupply** demonstrated declining sales across multiple customer types and sales channels, including the medical institution segment.
+
+The largest absolute losses were:
 
 - **PharmaSupply — Pharmacy / Online:** −5.19 billion RUB;
-- **PharmaGroup — Medical Institutions / Online:** −5.08 billion RUB;
-- **PharmaSupply — Medical Institutions / Online:** −4.58 billion RUB.
+- **PharmaGroup — Medical Institution / Online:** −5.08 billion RUB;
+- **PharmaSupply — Medical Institution / Online:** −4.58 billion RUB.
 
-These segments require additional analysis to identify the causes of declining performance and evaluate the effectiveness of current sales channels.
+These segments require additional analysis to identify the reasons behind the decline and evaluate the effectiveness of current sales channels.
 
 ---
 
-## Business Recommendations
+## Business Conclusions
 
-Based on the analysis, the following actions can be considered:
+The analysis shows that overall sales performance demonstrates a stable positive trend.
 
-- continue developing online sales channels;
-- focus on high-growth private customer segments;
-- support the strongest-performing product categories;
-- investigate the reasons for declining pharmacy sales;
-- review the sales strategy of underperforming suppliers;
-- conduct additional regional analysis to identify opportunities outside Moscow.
+Growth is primarily driven by:
+
+- the development of online sales channels;
+- increased sales to individual customers;
+- stable demand for Clinical, Scientific, and Sterile product categories;
+- strong performance of MedTech.
+
+At the same time, significant risks are associated with declining sales for PharmaGroup and PharmaSupply, particularly in the pharmacy segment.
+
+Further analysis should focus on identifying the reasons for negative sales dynamics and evaluating the effectiveness of the affected sales channels.
 
 ---
 
 ## Tools
 
 - Yandex DataLens
-- Data Visualization
-- Business Analytics
-
----
-
-**Interactive Dashboard:** [Open in Yandex DataLens](ССЫЛКА)
