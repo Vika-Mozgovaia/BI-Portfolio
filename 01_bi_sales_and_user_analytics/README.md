@@ -8,6 +8,8 @@ The project combines sales and customer analytics into two interconnected dashbo
 
 The dashboard provides a structured view of both business performance and customer behavior, supporting data-driven decision-making.
 
+---
+
 ## Dashboard
 
 ### Sales Analytics
@@ -34,11 +36,13 @@ The dashboard also includes:
 
 ### Sales Dashboard
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/sales_dashboard.jpg)
 
-### Sales Dashboard with Filters
+### Sales Dashboard Overview and Filters
 
-![Sales Dashboard Filters](images/sales_filters.png)
+![Sales Dashboard Overview](images/sales_dashboard_overview.png)
+
+---
 
 ## User Analytics
 
@@ -63,9 +67,11 @@ The dashboard also provides insights into:
 - Number of reviews
 - Daily active user patterns
 
-### User Dashboard
+### User Analytics Dashboard
 
-![User Dashboard](images/user_dashboard.png)
+![User Analytics Dashboard](images/user_analytics_dashboard.jpg)
+
+---
 
 ## Key Business Questions
 
@@ -81,6 +87,8 @@ The dashboard helps answer questions such as:
 - How well are users retained over time?
 - How does customer lifetime value change across cohorts?
 
+---
+
 ## Filters and Interactivity
 
 The dashboard allows users to analyze data using interactive filters, including:
@@ -92,11 +100,15 @@ The dashboard allows users to analyze data using interactive filters, including:
 
 The time granularity filter allows users to switch between different aggregation levels for trend analysis.
 
+---
+
 ## Documentation
 
 Detailed project documentation, including data preparation, metrics, dashboard logic, and analytical approach, is available here:
 
-[View Project Documentation](DOCUMENTATION_LINK_HERE)
+[**View Project Documentation**](https://docs.google.com/document/d/1kQzNIiv_Q7FOGYoxDBRMefCH3sK8BFvGjqr9KAd9ToY/edit?tab=t.0)
+
+---
 
 ## Tools
 
@@ -107,14 +119,16 @@ Detailed project documentation, including data preparation, metrics, dashboard l
 - Cohort Analysis
 - Business Analytics
 
+---
+
 ## Project Structure
 
 ```text
 01_bi_sales_and_user_analytics/
 │
 ├── images/
-│   ├── sales_dashboard.png
-│   ├── sales_filters.png
-│   └── user_dashboard.png
+│   ├── sales_dashboard.jpg
+│   ├── sales_dashboard_overview.png
+│   └── user_analytics_dashboard.jpg
 │
 └── README.md
