@@ -1,3 +1,0 @@
-# Game Market Analysis
-
-In progress...
