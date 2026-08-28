@@ -134,10 +134,6 @@ Detailed project documentation, including data preparation, metrics, dashboard l
 
 - Apache Superset
 - SQL
-- PostgreSQL
-- Data Visualization
-- Cohort Analysis
-- Business Analytics
 
 ---
 
