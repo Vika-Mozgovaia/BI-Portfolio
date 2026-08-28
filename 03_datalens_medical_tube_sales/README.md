@@ -1,3 +1,1 @@
-# Insurance BI Dashboard
 
-In progress...
