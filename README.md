@@ -21,7 +21,7 @@ What I bring: an understanding of how a business makes decisions and what data i
 | 03 | [**Medical Supplies Sales Analysis**](03_datalens_medical_tube_sales/) · [live dashboard ↗](https://datalens.yandex/n6dizmyks6fq7) | Which segments drive growth and which suppliers are losing sales? | Yandex DataLens |
 | 04 | [**Startup Investment Analysis**](04_python_startup_investment_analysis/) | Which industries and funding types should a venture investor choose for 2015? | Python, pandas |
 | 05 | [**Moscow Food Service Market Research**](05_python_moscow_food_service_market_analysis/) | Which format, price segment and location should a new restaurant choose? | Python, pandas |
-| 06 | [**A/B Testing**](06_ab_testing/) | *Coming soon* | Python, SciPy, statsmodels |
+| 06 | [**A/B Test: New Recommendation Algorithm**](06_ab_testing/) | Should the new recommendation algorithm be rolled out? Full cycle: sample size, monitoring, z-test, decision | Python, statsmodels |
 
 ### Highlights
 
