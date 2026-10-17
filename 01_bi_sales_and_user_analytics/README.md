@@ -89,6 +89,44 @@ The dashboard helps answer questions such as:
 
 ---
 
+## Key Insights
+
+*Period: June 2024 – May 2025. Educational dataset.*
+
+### The marketplace is growing fast
+
+- **GMV:** 1.2B RUB over the year. Monthly GMV grew **about 5×**, from ~45M to ~220M RUB.
+- **Orders:** 396k in total. Monthly orders grew from ~15k to ~72k.
+- **Average order value** stayed stable at ~3.0k RUB (3,010–3,050). Growth comes from **more orders, not bigger orders**.
+- **Active buyers** almost tripled (11.4k → 32k), while active sellers grew more slowly (23k → 33.5k). Demand is catching up with supply.
+
+### Retention is improving
+
+- First-month retention rose from **27% (June 2024 cohort) to ~50% (March–April 2025 cohorts)**. Newer users come back more often.
+- LTV grows for each newer cohort up to March 2025 (3.6k → 12.5k RUB). The drop for the latest cohorts is expected: they have had less time to make purchases, so they should not be compared with older cohorts yet.
+
+### The main problem: cancellations
+
+- **About 25% of all orders (98.8k) were cancelled.** This is the largest lost-revenue area on the dashboard.
+- Cancellations are spread evenly across categories (~1M RUB GMV each in the top categories), so the cause is likely **process-wide** (payment, delivery, stock) rather than tied to specific products.
+
+### Metric notes
+
+The user base contains two roles: **buyers (50.2%)** and **sellers (49.8%)**. This explains two values that may look unusual at first:
+
+- **Conversion = 50%.** It is calculated over all users, including sellers, who do not place orders. Almost every registered buyer made at least one order, so the figure effectively equals the share of buyers. For a marketplace it is more accurate to calculate conversion **among buyers only**, where it is close to 100%.
+- **ARPU (16.5k) ≈ ARPPU (16.6k).** ARPU is calculated per buyer. Since almost all buyers are paying customers in this period, revenue per user and revenue per paying user are nearly the same. In a real business, the gap between them would show the share of non-paying users.
+
+In a production dashboard I would show these metrics separately for buyers and sellers.
+
+### Recommendations
+
+1. Investigate the cancellation funnel: at which status orders are cancelled and why.
+2. Keep tracking retention by cohort to confirm the growth is sustainable.
+3. Encourage reviews: only 104 reviews for 396k orders is too few to judge product quality (average rating 3.14).
+
+---
+
 ## Filters and Interactivity
 
 The dashboard allows users to analyze data using interactive filters, including:
