@@ -8,6 +8,8 @@ The analysis was conducted for a company entering the food service industry for 
 
 The study combines two datasets: one describing food establishments and another containing pricing information.
 
+📓 **Notebook:** [`moscow_food_service_market.ipynb`](moscow_food_service_market.ipynb) (in Russian)
+
 ---
 
 ## Business Task
