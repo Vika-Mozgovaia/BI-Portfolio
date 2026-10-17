@@ -124,6 +124,35 @@ The dashboard enables users to:
 
 ---
 
+## Analytical Findings
+
+*Period: May 2019 – April 2020.*
+
+### Paid advertising was unprofitable for most of the year
+
+- Return on ad spend for all three campaign types (CPC, content, mail) **stayed negative from May 2019 to March 2020**, mostly between −30% and −70%.
+- The ad balance (revenue minus costs) was negative every month, with the largest loss in December 2019 (−21k).
+- **April 2020 was the turning point:** mail campaigns reached ROI of about **+53%**, and CPC and content campaigns came close to break-even.
+
+### Channel performance differs sharply
+
+- **Organic traffic** is the largest source of users in every month.
+- Several paid channels reached **ROI of 150–300%** by early 2020, while others stayed deeply negative all year. Budget should be moved from the weakest channels to the strongest.
+- Average session length is about **30 minutes for every channel**, so channels differ in conversion and cost, not in engagement.
+
+### Audience and devices
+
+- **330k users in total:** iPhone 36%, Android 23%, Mac 20%, PC 20%.
+- Monthly active users grew from ~20k to ~33k, with iPhone users growing fastest.
+
+### Recommendations
+
+1. Cut or reduce spend on channels that stayed unprofitable all year.
+2. Scale the channels with ROI above 100% and keep monitoring them monthly.
+3. Treat iPhone users as the core audience when planning campaigns and creatives.
+
+---
+
 ## SQL
 
 The SQL query used to prepare the analytical dataset is available in [`sql/dataset_preparation.sql`](sql/dataset_preparation.sql).
