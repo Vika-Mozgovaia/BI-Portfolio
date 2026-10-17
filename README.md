@@ -19,7 +19,7 @@ What I bring: an understanding of how a business makes decisions and what data i
 | 01 | [**Marketplace Sales & User Analytics**](01_bi_sales_and_user_analytics/) | How are sales growing, how well are users retained, and where do we lose orders? | SQL, Apache Superset |
 | 02 | [**Advertising Campaign Performance**](02_bi_advertising_analytics/) | Which ad channels and campaign types pay off, and where should the budget go? | SQL, Apache Superset |
 | 03 | [**Medical Supplies Sales Analysis**](03_datalens_medical_tube_sales/) · [live dashboard ↗](https://datalens.yandex/n6dizmyks6fq7) | Which segments drive growth and which suppliers are losing sales? | Yandex DataLens |
-| 04 | [**Startup Investment Analysis**](04_python_startup_investment_analysis/) | *Coming soon* | Python, SQL |
+| 04 | [**Startup Investment Analysis**](04_python_startup_investment_analysis/) | Which industries and funding types should a venture investor choose for 2015? | Python, pandas |
 | 05 | [**Moscow Food Service Market Research**](05_python_moscow_food_service_market_analysis/) | Which format, price segment and location should a new restaurant choose? | Python, pandas |
 | 06 | [**A/B Testing**](06_ab_testing/) | *Coming soon* | Python, SciPy, statsmodels |
 
