@@ -1,68 +1,53 @@
-# Hello!
+# Viktoria Mozgovaia — Data Analyst Portfolio
 
-My name is **Viktoria Mozgovaia**.
+**Data Analyst | BI Analyst** · Remote
 
-I am a **BI Analyst** with over **15 years of experience in marketing, management, and business analysis**.
+I spent 15 years in marketing, including 12 years as Head of Marketing, where I planned budgets, measured channel performance, worked closely with B2B partners and prepared reports for management.
 
-Throughout my career, I have managed a marketing department, analyzed advertising campaign performance, developed sales plans, worked with CRM systems, Yandex Metrica, and management reporting. I have always been passionate about identifying patterns in data and using them to support business decision-making.
+Now I'm moving into data analytics. I completed the extended **Data Analyst program at Yandex Practicum** (SQL, Python, statistics, A/B testing, BI, ClickHouse, PySpark, Airflow), and this repository collects my projects.
 
-I am currently expanding my expertise in **Business Intelligence and Data Analytics**. I build dashboards, analyze data, and use SQL and Python to solve business problems.
+What I bring: an understanding of how a business makes decisions and what data it needs for them, plus the technical skills to provide that data.
 
----
-
-# Skills
-
-## Data Analysis
-
-- SQL (JOIN, CTE, Window Functions, Aggregations)
-- Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)
-- Exploratory Data Analysis (EDA)
-- A/B Testing
-- Statistical Analysis
-
-## Business Intelligence & Data Visualization
-
-- Apache Superset
-- DataLens
-- Interactive Dashboard Development
-- Data Visualization
-
-## Business Analytics
-
-- Marketing Analytics
-- Advertising Campaign Performance Analysis
-- KPI Analysis
-- Business Recommendations
+> 📝 Project descriptions are in English. Dashboards and notebooks are in Russian, as the projects were completed in a Russian-language program.
 
 ---
 
-# Projects
+## Projects
 
-This repository contains data analytics and Business Intelligence projects based on real-world business cases.
+| # | Project | Business question | Tools |
+|---|---------|-------------------|-------|
+| 01 | [**Marketplace Sales & User Analytics**](01_bi_sales_and_user_analytics/) | How are sales growing, how well are users retained, and where do we lose orders? | SQL, Apache Superset |
+| 02 | [**Advertising Campaign Performance**](02_bi_advertising_analytics/) | Which ad channels and campaign types pay off, and where should the budget go? | SQL, Apache Superset |
+| 03 | [**Medical Supplies Sales Analysis**](03_datalens_medical_tube_sales/) · [live dashboard ↗](https://datalens.yandex/n6dizmyks6fq7) | Which segments drive growth and which suppliers are losing sales? | Yandex DataLens |
+| 04 | [**Startup Investment Analysis**](04_python_startup_investment_analysis/) | *Coming soon* | Python, SQL |
+| 05 | [**Moscow Food Service Market Research**](05_python_moscow_food_service_market_analysis/) | Which format, price segment and location should a new restaurant choose? | Python, pandas |
+| 06 | [**A/B Testing**](06_ab_testing/) | *Coming soon* | Python, SciPy, statsmodels |
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **Advertising Analytics Dashboard** | BI dashboard for advertising campaign performance analysis | SQL, Apache Superset |
-| **Real Estate Market Analysis** | Analysis of the Saint Petersburg real estate market | SQL, DataLens |
-| **Insurance BI Dashboard** | Dashboard for customer portfolio and insurance revenue analysis | DataLens |
-| **Game Market Analytics** | BI dashboard for game market analysis | Apache Superset |
-| **Moscow Food Service Market Analysis** | Exploratory data analysis of the Moscow food service market | Python, Pandas |
-| **A/B Testing** | Statistical hypothesis testing and experiment analysis | Python, SciPy, Statsmodels |
-| **Startup Investment Analysis** | Venture capital investment analysis and market research | Python, SQL |
----
+### Highlights
 
-# Currently Learning
-
-- Power BI
-- Advanced SQL
-- Advanced Excel for Data Analysis
-- Statistics for Data Analysts
+- **Sales analysis (03):** found that individual-customer online sales grew up to **+227%**, while two suppliers lost **85–93%** of their pharmacy-segment sales, and flagged them as risks.
+- **Marketplace (01):** monthly GMV grew **~5×** over the year with a stable average order value, but **about a quarter of all orders were cancelled**, which is the main growth reserve.
+- **Food service market (05):** chose not to fill 43% of missing seating-capacity values with the median, because it distorted the market structure.
 
 ---
 
-# Languages
+## Skills
 
-- Russian — Native
-- English — A2 (currently improving)
-- Spanish — A2 (currently improving)
-- French — Basic
+**Data analysis:** SQL (JOIN, CTE, window functions), Python (pandas, NumPy, SciPy, statsmodels), EDA, hypothesis testing, A/B testing
+
+**BI & visualization:** Apache Superset, Yandex DataLens, Matplotlib, Seaborn
+
+**Data engineering basics:** ClickHouse, PySpark, Airflow
+
+**Business metrics:** conversion, CAC, ROI/ROMI, retention, cohort analysis, LTV, ARPU/ARPPU, GMV, AOV
+
+**From my marketing background:** budget planning, channel performance analysis, Yandex Metrica, CRM, working with B2B partners and stakeholders
+
+---
+
+## Contacts
+
+- 📧 Email: art.center.vika@gmail.com
+- 💼 LinkedIn: [Viktoria Mozgovaia](https://www.linkedin.com/in/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-884895320/)
+
+**Languages:** Russian (native), English (A2, improving), Spanish (A2, improving), French (basic)
