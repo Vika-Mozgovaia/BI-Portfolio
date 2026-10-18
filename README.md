@@ -1,4 +1,4 @@
-# Viktoria Mozgovaia — Data Analyst Portfolio
+# Viktoriia Mozgovaia — Data Analyst Portfolio
 
 **Data Analyst | BI Analyst** · Remote
 
@@ -48,6 +48,6 @@ What I bring: an understanding of how a business makes decisions and what data i
 ## Contacts
 
 - 📧 Email: art.center.vika@gmail.com
-- 💼 LinkedIn: [Viktoria Mozgovaia](https://www.linkedin.com/in/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-884895320/)
+- 💼 LinkedIn: [linkedin.com/in/viktoria-mozgovaia](https://www.linkedin.com/in/viktoria-mozgovaia/)
 
-**Languages:** Russian (native), English (A2, improving), Spanish (A2, improving), French (basic)
+**Languages:** Russian (native), English (A2, improving), Spanish (A2, improving), French (A1–A2)
